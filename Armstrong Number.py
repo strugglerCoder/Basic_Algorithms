@@ -5,7 +5,6 @@ def order(number):
         number = number // 10
     return n
 
-
 def armstrong(number):
     temp = number
     sum = 0

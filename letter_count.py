@@ -7,7 +7,6 @@ def lettercount(string, letter):
 
     print(l_count,letter)
 
-
 string = "aaabbcadd"
 print(string)
 l = input("Enter a letter which you want to see count of that : ")

@@ -7,5 +7,4 @@ def swap(a, b):
 
     print("After swapping: ",a,b)
 
-
 swap(3, 4)

@@ -19,6 +19,5 @@ def armstrong(number):
     else:
         print(number, "is not armstrong number")
 
-
 n = int(input("Enter number to check armstrong or not : "))
 armstrong(n)

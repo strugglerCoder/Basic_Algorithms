@@ -12,6 +12,5 @@ def biggest(lists):
             i += 1
     return big
 
-
 print(biggest([10, 250, 30, 40]))
 print(biggest([10000, 5, 100, 30, 35, 15]))

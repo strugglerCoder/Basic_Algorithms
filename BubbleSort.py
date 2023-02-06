@@ -10,6 +10,5 @@ def sort(arr):
 
     print(arr)
 
-
 arr = [3,2,1]
 sort(arr)

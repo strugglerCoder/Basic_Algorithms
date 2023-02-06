@@ -1,6 +1,5 @@
 pos = 0
 
-
 def binary(list, key):
     lower = 0
     upper = len(list) - 1
@@ -18,7 +17,6 @@ def binary(list, key):
                 lower = mid + 1
 
     return False
-
 
 # ########## list should be sorted ####################
 

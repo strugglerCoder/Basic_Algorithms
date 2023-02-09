@@ -14,6 +14,7 @@ def Fibonacci(Range):
             t2 = t3
         print(t3, end=" ")
 
+        
 Range = int(input("Enter range for Fibonacci series : "))
 for i in range(Range):
     Fibonacci(i)

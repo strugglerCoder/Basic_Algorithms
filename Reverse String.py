@@ -10,7 +10,6 @@ print("By logic 1:",reverse("abc"))
 
 def reverse1(string):
     temp = ""
-
     i=len(string)
     while(i>0):
         a = (i-1)%10

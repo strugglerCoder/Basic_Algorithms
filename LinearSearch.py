@@ -28,19 +28,3 @@ if sort==True:
     print(no, "is found at", pos)
 else:
     print(no,"is not found in list")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

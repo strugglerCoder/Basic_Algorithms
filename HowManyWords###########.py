@@ -1,6 +1,4 @@
 # "Hello My World" => 3
-# Hrishi "Lokhande Ashok" Ajinkya
-
 
 def words(string):
     strip = string.strip()
@@ -19,6 +17,3 @@ def words(string):
 print(words("Hello world as sa           "))
 print(words("        "))
 print(words("         Hello     world as    sa           "))
-
-
-

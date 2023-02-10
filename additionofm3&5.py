@@ -12,9 +12,7 @@
 # print(string)
 # for i in string:
 
-
 # print(string)
-
 
 n = input("enter a no : ")
 number = int(n)

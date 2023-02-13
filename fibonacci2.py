@@ -16,6 +16,3 @@ def fib(n):
 
 n = int(input("Enter range for series: "))
 fib(n)
-
-
-

@@ -21,7 +21,6 @@ def isprefix(string, prefix):
 
     return True
 
-
 print(isprefix("abcd", "abcd"))
 print(isprefix("abcd", "ab"))
 print(isprefix("abcd", "ac"))

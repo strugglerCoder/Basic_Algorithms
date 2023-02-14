@@ -6,4 +6,3 @@ def sort(lists):
     return True
 
 print(sort([1,2]))
-
